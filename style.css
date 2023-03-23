@@ -1,6 +1,6 @@
-image{
-    display: block;
-    max-width: 100%;
-    max-height: auto;
-    position: centre;
-}
+#image{
+    display:  block;
+    max-width:  100%;
+    margin-right:  auto;
+    margin-left:  auto;
+  }
